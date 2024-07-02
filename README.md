@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YMANSY1
 - 👀 I’m interested in alot of things, but mainly I'm on Github to learn and improve my coding skills and learn version control.
 - 🌱 I’m currently learning Java, Dart, Flutter, Git and version control in general!
-- 📫 How to reach me: through my Emails Y.Mohamed2191@nu.edu.eg or youssefmansyworklife@gmail.com
+- 📫 How to reach me: 
 - ⚡ Fun fact: I'm from Egypt!
 
 <!---
